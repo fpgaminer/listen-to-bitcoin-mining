@@ -32,3 +32,6 @@ It will initially take about 30 seconds or so for your room to be filled with th
 
 ##Accuracy##
 While running, each "sound" played directly corresponds to a fixed number of shares, defined by the shares-per-sound option.  The rate at which the sounds are played, however, is only roughly correlated with the hashing rate.  Since information on the exact time the shares are found is not available, a truly direct correlation is not possible.  However, this does allow for more flexibility in how the audio landscape is constructed.  In other words, it sounds slightly less like a random mess.
+
+##Video Demo##
+http://www.youtube.com/watch?v=36zCtFHEOrg
